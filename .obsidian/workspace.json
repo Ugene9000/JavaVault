@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "87a9c86e80615605",
+    "type": "split",
+    "children": [
+      {
+        "id": "b90d928035acb536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56b27fdc270925b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Implementation Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f90dd5759a559078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Implementation Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe17919a050abf7c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9cc51a4fa3e09f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4c02f9c9a54f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549b9fd566d81afc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a2b184320e811ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ef3ae0634bf1cc5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f194d90631b46b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae5cd9f88f68c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e937e226cf0855c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "427017296fcb2b2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d5434369b96fead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23bd59e9a3684e61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe17919a050abf7c",
+  "lastOpenFiles": [
+    "Single Implementation Inheritance.md",
+    "Implementation inheritance vs Interface inheritance.md",
+    "OOP In Java.md"
+  ]
+}
