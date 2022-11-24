@@ -1,0 +1,2 @@
+
+In Java, a class can only extend one other class, i.e. it can only have one immediate superclass. This kind of inheritance is sometimes called single or linear [[implementation inheritance]]. The name is appropriate, as the subclass inherits the implementations of its superclass members

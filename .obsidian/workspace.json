@@ -35,12 +35,52 @@
             "id": "fe17919a050abf7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Single Implementation Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "082a46963ca38b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Implementation Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d56c8793cae03d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single or linear implementation inheritance in Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73a11990b823159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "existence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "existence.md"
+              }
             }
           }
         ]
@@ -153,10 +197,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe17919a050abf7c",
+  "active": "b73a11990b823159",
   "lastOpenFiles": [
+    "implementation inheritance.md",
+    "interface inheritance.md",
+    "OOP In Java.md",
+    "README.md",
+    "Single or linear implementation inheritance in Java.md",
     "Single Implementation Inheritance.md",
-    "Implementation inheritance vs Interface inheritance.md",
-    "OOP In Java.md"
+    "existence.md"
   ]
 }
